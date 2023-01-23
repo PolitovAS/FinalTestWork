@@ -457,3 +457,4 @@ tasks.json
 settings.json
 bin/
 obj/
+.bkp
